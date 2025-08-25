@@ -1,3 +1,5 @@
+![Palmer Banner](https://raw.githubusercontent.com/evanderpalmer/evanderpalmer/main/banner.png)
+
 Hi, I'm Evander Sena Helmut Palmer Kegbor.
 Welcome to my Github page.
 I like Python.
